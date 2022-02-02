@@ -1,0 +1,33 @@
+.logo {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 48px;
+    /* or 160% */
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-top: 37px;
+    margin-left: 80px;
+
+}
+
+.logo-dot {
+
+    color: #A3DC00;
+
+}
+
+
+.main-title {
+max-width: 495px;
+width: 100%;
+font-family: 'Ramaraja', serif;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 76px;
+/* or 106% */
+letter-spacing: 0.02em;
+color: #1B0A42;
+}
